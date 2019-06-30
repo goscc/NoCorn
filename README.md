@@ -1,2 +1,2 @@
-# NoCorn
+# nocorn
 Not Only Corn
